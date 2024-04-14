@@ -22,3 +22,12 @@
 8. Далее идет блок "Информации об артисте" с использованием "lookup-запроса" по параметру artistId. Если данный параметр отсутствует в ответе сервера - то данный блок не появляется. Также в нем присутствует кнопка с гиперссылкой на iTunes страницу артиста.
 ## Ошибки.
 При получении в ответе от сервера ошибки - на экране появляется Alert с кратким описанием причины ошибки.
+## Скриншоты с примерами запросов и ответов.
+![1 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/1screen.png)
+![2 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/2screen.png)
+![3 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/3screen.png)
+![4 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/4screen.png)
+![5 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/5screen.png)
+![6 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/6screen.png)
+![7 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/7screen.png)
+![8 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/8screen.png)
