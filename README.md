@@ -23,11 +23,11 @@
 ## Ошибки.
 При получении в ответе от сервера ошибки - на экране появляется Alert с кратким описанием причины ошибки.
 ## Скриншоты с примерами запросов и ответов.
-![1 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/1screen.png)
-![2 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/2screen.png)
-![3 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/3screen.png)
-![4 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/4screen.png)
-![5 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/5screen.png)
-![6 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/6screen.png)
-![7 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/7screen.png)
-![8 screen](https://raw.githubusercontent.com/YoshaKun/AvitoTestApp/7ca6ea32d91dbf43b8916557da6918a6d2031f0a/8screen.png)
+![1screen](https://github.com/YoshaKun/AvitoTestApp/assets/106468771/d843db7a-480c-48d3-b10e-b93d5692c1a5)
+![2screen](https://github.com/YoshaKun/AvitoTestApp/assets/106468771/418e960a-03d3-41aa-b1a7-6c04cc95749b)
+![3screen](https://github.com/YoshaKun/AvitoTestApp/assets/106468771/764414a0-bd85-4330-beee-fb603d86c71f)
+![4screen](https://github.com/YoshaKun/AvitoTestApp/assets/106468771/8eaecc29-1a08-4749-b634-72b31029fdcd)
+![5screen](https://github.com/YoshaKun/AvitoTestApp/assets/106468771/7f13882b-fff7-4216-a540-242c39c35294)
+![6screen](https://github.com/YoshaKun/AvitoTestApp/assets/106468771/defb850e-d5b0-4fa7-a909-66723b314377)
+![7screen](https://github.com/YoshaKun/AvitoTestApp/assets/106468771/5cac726e-d37c-4225-8fa8-2eb9edf378cd)
+![8screen](https://github.com/YoshaKun/AvitoTestApp/assets/106468771/55b6d62f-4d3c-40a5-b184-45a462b05d9c)
