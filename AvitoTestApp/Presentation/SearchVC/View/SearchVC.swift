@@ -52,7 +52,7 @@ final class SearchVC: UIViewController {
     // MARK: - Configure Views
     private func configureViews() {
         view.backgroundColor = .systemBackground
-        emptyDataLabel.text = "Введите имя артиста или название песни в поисковую строку, например: \"Scooter\""
+        emptyDataLabel.text = "Введите имя артиста или название песни в поисковую строку, например: \"Rap god\""
         emptyDataLabel.numberOfLines = 0
         emptyDataLabel.textAlignment = .center
         emptyDataLabel.font = .systemFont(ofSize: 24, weight: .semibold)
